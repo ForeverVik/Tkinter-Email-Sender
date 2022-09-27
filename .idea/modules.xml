@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../arduino/.idea/arduino.iml" filepath="$PROJECT_DIR$/../arduino/.idea/arduino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../internetTest2/.idea/internetTest2.iml" filepath="$PROJECT_DIR$/../internetTest2/.idea/internetTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tkinterTest.iml" filepath="$PROJECT_DIR$/.idea/tkinterTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trackingTest/.idea/trackingTest.iml" filepath="$PROJECT_DIR$/../trackingTest/.idea/trackingTest.iml" />
+    </modules>
+  </component>
+</project>
